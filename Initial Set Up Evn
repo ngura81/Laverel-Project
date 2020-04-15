@@ -1,5 +1,5 @@
 # Laverel-Project
-Learn Laverel
+Learn Laravel
 
 Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 ## Install Composer through Mac terminal--Paste the command below
@@ -19,7 +19,7 @@ $ mkdir -p /usr/local/bin.
 
 Install Nodejs and NPM
 
-Install Laveral PHP framework
+Install Laravel PHP framework
 Visit laveral website and paste the command below
 $composer global require laravel/installer
 
