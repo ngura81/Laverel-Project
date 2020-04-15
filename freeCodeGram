@@ -1,0 +1,3 @@
+$ laravel new freeCodeGram
+
+$ composer update --ignore-platform-reqs
