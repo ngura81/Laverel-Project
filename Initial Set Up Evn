@@ -31,3 +31,6 @@ In order to check if it worked, logout and login again or execute
 
 $ source ~/.bashrc
 
+Command to remove laravel
+$ composer global remove laravel/installer
+
