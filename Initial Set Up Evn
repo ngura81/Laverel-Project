@@ -34,3 +34,7 @@ $ source ~/.bashrc
 Command to remove laravel
 $ composer global remove laravel/installer
 
+How to check installed php location in mac
+
+$ find /usr/bin /usr/local /sw/bin /opt/local/bin $HOME/bin -name 'php*'
+
