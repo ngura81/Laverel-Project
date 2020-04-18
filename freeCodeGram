@@ -1,3 +1,4 @@
-$ laravel new freeCodeGram
-
-$ composer update --ignore-platform-reqs
+install xampp
+Set up IDE - Submlime text 3
+Install composer
+install laravel
