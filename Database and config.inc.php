@@ -20,3 +20,10 @@ php artisan cache:clear
 php artisan route:clear
 php artisan config:clear
 php artisan view:clear
+
+
+How uninstall xampp
+sudo -s
+[ Type your password ]
+find / | grep -i xampp
+rm -fr ~/.bitnami/
